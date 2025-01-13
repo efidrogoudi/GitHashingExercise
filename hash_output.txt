@@ -1,0 +1,2 @@
+User 4-digit integer: 0645
+Hashed integer with SHA-256 algorithm: b854d216dc71e414c2cd9da9bead0d3b00d30e3161e86b3ebedc4b3f8af2a862
